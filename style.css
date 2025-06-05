@@ -1,0 +1,16 @@
+ a {
+    
+  display:block;
+  color:white;
+     background-color:#FFAD00;
+     text-decoration:none;
+     padding:12px 32px;
+     border-radius:6px;
+     margin-bottom:10px;
+     max-width: 850px;
+ }
+body{
+border-width:10px;
+    border-style:solid;
+    border-color:grey;
+}
